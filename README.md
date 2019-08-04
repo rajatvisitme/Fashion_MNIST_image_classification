@@ -3,7 +3,7 @@
 <b>Fashion MNIST</b> is intended as a drop-in replacement for the classic <b><a href="https://github.com/rajatvisitme/cnn_mnist" target="_blank"><abbr title="MNIST handwritten digits classification">MNIST</abbr></a></b> dataset-often used as the <b>"Hello, World"</b> of machine learning programs for computer vision.<br/>
 Fashion MNIST consist of cloths images, i.e. 60,000 training images and 10,000 testing images.
 
-<h2>Library used:</h2>
+<h2>Dependencies</h2>
 <ul>
   <li>Tensorflow</li>
   <li>Matplotlib</li>
@@ -13,7 +13,7 @@ Fashion MNIST consist of cloths images, i.e. 60,000 training images and 10,000 t
  <b>Keras:</b> a high-level API, to build and train models<br/>
  <b>tf.keras</b> is TensorFlow's implementation of the Keras API specification.
  
- <h2>Steps involved:</h2>
+ <h2>Code-Walkthrough</h2>
  
  1. Importing required libraries.
  2. Loading Fashion MNIST dataset
